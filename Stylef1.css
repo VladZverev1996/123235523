@@ -1,0 +1,171 @@
+.body {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
+  color: #fff;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  margin-left: 0px;
+  margin-right: 0;
+  margin-top: 0;
+}
+.lending {
+  background-image: url(img/фон4.png);
+  height: 3100px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  margin-left: 0px;
+  margin-right: 0;
+  margin-top: 0;
+}
+.main {
+  height: 100vh;
+  min-height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.header {
+  position: relative;
+  height: 175px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+  max-width: 1920px;
+}
+.nav1 {
+  margin-right: 250px;
+  width: 460px;
+  display: flex;
+  justify-content: space-between;
+}
+.imlogo {
+  margin-left: 115px;
+}
+.nav-item {
+  text-decoration: none;
+  color: #00305d;
+  font-family: Roboto;
+  font-style: Regular;
+  font-size: 48px;
+}
+.nav-item:hover {
+  color: #f9897b;
+}
+.main-text {
+  width: 1060px;
+  min-height: 420px;
+  margin-top: 150px;
+  margin-left: 115px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.h1 {
+  font-family: Montserrat;
+  font-style: Bold;
+  font-size: 96px;
+  color: #00305d;
+  margin: 0;
+}
+.z {
+  font-family: Montserrat;
+  text-decoration: none;
+  color: #fff;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  background-color: #279ec6;
+  border-radius: 40px;
+  width: 405px;
+  padding: 20px 0;
+}
+.z:hover {
+  background-color: #f9897b;
+}
+.Possible {
+  font-family: Montserrat;
+  min-height: 1080px;
+  display: flex;
+  flex-direction: column;
+  padding-left: 258px;
+  padding-right: 258px;
+}
+.Functions {
+  display: flex;
+  min-width: 1400px;
+  justify-content: space-between;
+  margin-top: 150px;
+}
+.h1-possible {
+  font-size: 96px;
+  color: #006395;
+  padding-top: 10px;
+}
+.f1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.h2-fun {
+  text-align: center;
+  color: #ff725e;
+  font-size: 45px;
+}
+.Video {
+  font-family: Montserrat;
+  min-height: 1080px;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+.h1-Friend {
+  color: #006395;
+  font-size: 96px;
+  max-width: 1140px;
+  margin-left: auto;
+  margin-right: 120px;
+  margin-top: 0;
+}
+.futer {
+  margin: 0;
+  background-color: #e25b45;
+  display: flex;
+  height: 330px;
+  margin: 0;
+  justify-content: space-between;
+  padding-left: 120px;
+  padding-right: 120px;
+  align-items: center;
+}
+.fio {
+  font-family: Roboto;
+  font-style: light;
+  font-size: 45px;
+  letter-spacing: 2px;
+  margin: 0;
+  color: #fff;
+}
+.fio:hover {
+  color: #00305d;
+}
+.video {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  padding-top: -100px;
+}
+.Canvas {
+  display: block;
+  width: 1920px;
+  height: 1080px;
+}
